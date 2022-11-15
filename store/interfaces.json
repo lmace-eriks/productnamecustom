@@ -1,0 +1,6 @@
+{
+  "productnamecustom": {
+    "component": "ProductNameCustom",
+    "composition": "children"
+  }
+}
